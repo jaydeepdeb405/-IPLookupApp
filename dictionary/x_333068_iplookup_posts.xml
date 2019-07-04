@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Posts" max_length="40" name="x_333068_iplookup_posts" type="collection">
+        <element label="Body" max_length="40" name="body" read_only="true" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element label="Title" max_length="40" name="title" read_only="true" type="string"/>
+    </element>
+</database>
